@@ -4,6 +4,24 @@ const comments_display = document.querySelector('#commentsDisplay')
 
 
 
-btn.addEventListener('click',(e)=>{
-    comments_display.textContent = article_link_txtbox.value
+btn.addEventListener('click',async (e)=>{
+    try{
+        const response = await fetch('http://127.0.0.1:8000/comments/?url=' + article_link_txtbox.value)
+        if (!response.ok) {
+            throw new Error(`Response status: ${response.status}`);
+        }
+
+        const json = await response.json();
+
+        final_display =''
+        for(i in Object.keys(json)){
+            final_display += i.toString() + '::' + json[i] + '<br><br>'
+        }
+        comments_display.innerHTML = final_display
+    }
+    catch(err){
+        console.error(error.message);
+    }
+
+    
 })
