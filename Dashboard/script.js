@@ -17,7 +17,8 @@ btn.addEventListener('click',async (e)=>{
         for(i in Object.keys(json)){
             final_display += i.toString() + '::' + json[i] + '<br><br>'
         }
-        comments_display.innerHTML = final_display
+        // comments_display.innerHTML = final_display
+        comments_display.innerHTML = JSON.stringify(json)
     }
     catch(err){
         console.error(error.message);

@@ -1,0 +1,84 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "Older people are using cannabis more than ever. Here’s what to know about its potential medicinal benefits and side effects as we age.",
+                "byline": {
+                    "original": "By Christina Caron"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Why Some Seniors Are Choosing Pot Over Pills",
+                    "kicker": "",
+                    "print_headline": "More Seniors Are Choosing Pot Over Pills"
+                },
+                "_id": "nyt://article/c79f7b3f-c744-508c-9c0e-67e871ab191e",
+                "keywords": [
+                    {
+                        "name": "Subject",
+                        "value": "Marijuana",
+                        "rank": 1
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Elderly",
+                        "rank": 2
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Age, Chronological",
+                        "rank": 3
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Medical Marijuana",
+                        "rank": 4
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Drugs (Pharmaceuticals)",
+                        "rank": 5
+                    },
+                    {
+                        "name": "Location",
+                        "value": "United States",
+                        "rank": 6
+                    }
+                ],
+                "multimedia": {
+                    "caption": "Steve Hickerson, 79, was bused to a cannabis event in Santa Ana, Calif., along with about 50 other seniors, where they spoke with different vendors and purchased products. “It was a fun day,” he said.",
+                    "credit": "Jackie Russo for The New York Times",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2023/11/13/multimedia/WELL-SENIORS-CANNABIS5-whgz/WELL-SENIORS-CANNABIS5-whgz-articleLarge.jpg",
+                        "height": 900,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2023/11/13/multimedia/WELL-SENIORS-CANNABIS5-whgz/WELL-SENIORS-CANNABIS5-whgz-thumbStandard-v2.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "Well",
+                "print_page": "1",
+                "print_section": "A",
+                "pub_date": "2023-11-16T17:55:11Z",
+                "section_name": "Well",
+                "snippet": "Older people are using cannabis more than ever. Here’s what to know about its potential medicinal benefits and side effects as we age.",
+                "source": "The New York Times",
+                "subsection_name": "Mind",
+                "type_of_material": "News",
+                "uri": "nyt://article/c79f7b3f-c744-508c-9c0e-67e871ab191e",
+                "web_url": "https://www.nytimes.com/2023/11/16/well/mind/medical-marijuana-seniors.html",
+                "word_count": 1526
+            }
+        ],
+        "metadata": {
+            "hits": 1,
+            "offset": 0,
+            "time": 142
+        }
+    }
+}
