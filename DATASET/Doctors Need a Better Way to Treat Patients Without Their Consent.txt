@@ -1,0 +1,42 @@
+Not long ago, I took care of a middle-aged man at my hospital who had severe heart failure requiring life support. When he was disconnected from machines after a few days of treatment, he began to display psychotic symptoms, including delusional thinking, tangential speech and paranoia. He had a long history of untreated schizophrenia, I learned, which had estranged him from family members and friends, with whom he had virtually no contact.
+
+My patient demanded to leave the hospital. However, sending him home was going to be a problem. He could not take care of himself. There was little chance he would take his medications, including a blood thinner to dissolve a clot in his heart before it caused a stroke. He was even less likely to take psychiatric drugs that he did not believe he needed.
+
+My colleagues and I didn’t know what to do, so we called the treating psychiatrist. The psychiatrist immediately declared that our patient lacked the capacity to discharge himself from the hospital. The patient could not grasp the implications of this choice, for instance, or properly weigh its risks and benefits. The psychiatrist said the patient should remain in the hospital to receive psychiatric treatment, even against his will.
+
+The psychiatrist’s opinion made sense to me. Patients with untreated schizophrenia have a higher rate of death than those who undergo treatment. Hopefully treatment would restore my patient’s judgment to the point where he would take his medications when he went home — or even decide not to take them, but to make that risky decision in the full appreciation of the likely consequences. (If autonomy means anything, it means that patients have the right to make bad decisions, too.) Treating him, even over his objections, seemed to be in his best interests.
+
+However, according to New York law — and the law of other states — such involuntary treatment would require a court order. As doctors, we would have to plead our case before a judge. But was a judge without medical or psychiatric expertise the best person to decide this man’s fate?
+
+In this case and also more generally, I think the answer is no. The law ought to be changed to keep such decisions in hospitals — in the hands of doctors, medical ethicists and other relevant experts.
+
+Doctors don’t always have to resort to the courts to treat patients without their consent. There are some notable exceptions, such as during a life-threatening emergency (if a competent patient has not previously refused such treatment) or when there is a pressing societal interest (such as requiring patients with communicable tuberculosis to take antibiotics).
+
+But judicial review has been the cornerstone of “treatment over objection,” as it’s known, for the past four decades or so. Appellate courts in the 1980s ruled that judicial hearings in such cases are needed to safeguard patients’ rights. For example, in 1983, in Rogers v. Commissioner of Department of Mental Health, the Massachusetts Supreme Judicial Court declared that a judge could override medical judgments favoring involuntary psychiatric treatment.
+
+The underlying motivation behind judicial review was and remains laudable: to avoid the sort of paternalistic abuses that have characterized too much of medical history. Doctors often used to withhold bad news from patients, to cite just a small example. Involuntary treatment, even with benevolent intentions, reeks of such paternalism.
+
+Editors’ Picks
+
+The Sega Dreamcast Was the ‘What if?’ Console
+
+You Say Tomato, I Say Bingo
+
+4 Surprising Ways Healthy Heart Habits Benefit Your Whole Body
+But though medical practice is by no means perfect, times have changed. The sort of abuse dramatized in the 1975 movie “One Flew Over the Cuckoo’s Nest,” with its harrowing depiction of forced electroconvulsive therapy, is far less common. Doctors today are trained in shared decision-making. Safeguards are now in place to prevent such maltreatment, including multidisciplinary teams in which nurses, social workers and bioethicists have a voice.
+
+In addition to being less necessary to prevent abuse than they once were, courts are by nature poorly suited for making decisions about treatment over objection. For one thing, they are slow: Having to go to court often results in delays, sometimes up to a week or more, which can harm patients who need care urgently.
+
+Moreover, judges have neither the experience nor the expertise to properly evaluate psychological states, assess decision-making capacity or determine whether a proposed treatment’s benefits outweigh its risks. It is no surprise that by some estimates 95 percent or more of requests for treatment over objection are approved by judges, who invariably haven’t met the patient and must rely on information provided by the treating medical team.
+
+A better system for determining whether a patient should be treated over his or her objection would be a hospital hearing in which a committee of doctors, ethicists and other relevant experts — all of whom would be independent of the hospital and not involved in the care of the patient — engaged in conversation with the medical team and the patient and patient’s family. Having hearings on site would expedite decisions and minimize treatment delays. The committee would make the final decision.
+
+Of course, such a committee would have to be granted immunity from legal liability (as with judges in our current system), so that experts would be willing to serve and speak candidly. Patients’ interests could be safeguarded by requiring the committee to publish its reasoning. Periodic audits by a regulatory body could ensure that the committee’s deliberations were meeting medical and ethical standards.
+
+In the event that the committee could not reach a consensus on the best course of action (or if there were allegations of wrongdoing), then the parties involved could appeal to a judge. But that would be the exception rather than the rule.
+
+In the case of my patient with heart failure, the decision ultimately didn’t have to go before a judge. Multiple discussions involving the patient, the hospital ethics and palliative care teams, social workers, nurses, psychiatrists and other doctors — discussions that in many respects served the function of a formal committee of the sort I’m proposing — yielded an agreement with the patient that his interests would be best served by sending him home with hospice care.
+
+Capacity must be judged relative to the decision being made, and it became clear over the course of hospitalization that our patient understood the terminal nature of his condition and had the capacity to choose hospice care. Forced treatment was unlikely to significantly improve his psychiatric symptoms before the natural progression of heart failure caused his death.
+
+So he was discharged home. It was the best decision under the circumstances, one reached by expert deliberation, not legal procedure. He passed away a few weeks later without, fortunately, ever setting foot in court.

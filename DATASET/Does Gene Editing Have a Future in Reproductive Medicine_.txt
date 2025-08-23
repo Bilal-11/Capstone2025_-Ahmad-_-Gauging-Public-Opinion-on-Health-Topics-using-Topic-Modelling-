@@ -1,0 +1,39 @@
+Since James Watson and Francis Crick first described the structure of the DNA double helix, scientists have debated the potential for creating genetically modified babies. In 2018, a Chinese scientist named He Jiankui announced he had actually done it: He used a gene editing tool called CRISPR to edit the embryos of twin girls in hopes of making them resistant to H.I.V.
+
+China’s laws governing reproductive medicine and gene editing were ill defined at the time. But outrage among scientists and the public led to Dr. He being sentenced to prison for three years on charges of “illegal medical practice,” under a broad statute, and denounced as pursuing “personal fame and profit.” China has since tightened its laws governing gene editing and fertility medicine. Dr. He moved too quickly, and failed to demonstrate that he actually protected the twins from H.I.V. Governments and the scientific community should develop clear legal frameworks to prevent rogue scientists from following in his footsteps.
+
+I wrote a book about Dr. He’s experiment, and I’ve been speaking with him regularly since he was released from prison in March 2022. “Reflecting on this criticism has given me new insights,” he told me. Yet Dr. He recently started new biotechnology ventures that show signs of repeating his earlier ethical missteps. The controversy offers an opportunity for more robust discussion over the future of gene editing technologies in fertility clinics.
+
+Dr. He’s story illustrates an unresolved problem with the innovation economy. Market values — prioritizing speed, profit and breakthroughs — are colliding with more fundamental values related to human health, equity and diversity.
+
+Dr. He trained for a year at Stanford University, in the heart of Silicon Valley, where technologists “move fast and break things.” Government incentives drew him back to China in 2012, where he established a laboratory in Shenzhen, a city itself known for speed and innovation. After founding a start-up company, valued at $312 million, he cashed in some of the company’s stock to fund his CRISPR venture.
+
+Communist Party officials had initially supported Dr. He’s CRISPR research in the context of President Xi Jinping’s China Dream — a policy that supports “cutting-edge frontier technologies” to make “China a country of innovators.” And so, Dr. He said, he thought that he would become a national hero. He was surprised when he became a pariah.
+
+Bioethics scholars have argued that Dr. He should not be allowed to publish his research, because he has violated fundamental principles and norms of science. I disagree. Much remains to be learned from his ethical missteps, as well as from his scientific data. His claims about engineering resistance to H.I.V. should be given the critical scrutiny that comes with scientific peer review. His original data should be published so that the scientific community can learn about the possibilities and problems of CRISPR in reproductive medicine.
+
+If his technique worked, broad ethical questions need to be addressed, not brushed under the rug: If we can make effective edits to the DNA of human embryos, should we?
+
+Using CRISPR on embryos could change the genetic makeup of future generations in a variety of ways. Some forms of deafness and blindness might be targeted with gene editing tools before children are born. Doctors might use gene editing techniques in embryos to repair congenital diseases like sickle-cell anemia and cystic fibrosis.
+
+Gene editing also adds fuel to debates around eugenics. As Business Insider reported, venture capitalists and tech visionaries who call themselves “pronatalists” want to save civilization by creating genetically superior children. Some utopian visionaries seem to think that they already have good genes, while others seek genetic improvements. Silicon Valley entrepreneurs are enlisting CRISPR scientists in a quest to design perfect babies.
+
+Given the potential misuse of the technology, the benefits of using CRISPR in fertility medicine may not outweigh the risks. Collectively, we could decide to put this technology back in the box, and CRISPR gene editing for reproductive uses could go the way of human cloning, and be outlawed. Or, leaders from science and civil society could decide that some uses of gene editing are permissible in human embryos — if CRISPR can produce solutions to pervasive medical problems, for example. But new ethical guidelines and legal codes are needed to govern this technology in the fertility clinic.
+
+To do this well, we need to understand the technical risks as well as the social ones.
+
+Dr. He misled the public when he made his 2018 announcement on YouTube: “Two beautiful little Chinese girls, named Lulu and Nana, came crying into this world as healthy as any other babies, a few weeks ago,” he said. In reality, the twins spent their first weeks in a hospital neonatal intensive care unit. Lulu and Nana were born prematurely, by emergency cesarean section at 31 weeks, and initially had difficulty breathing.
+
+The health problems that Lulu and Nana experienced at birth could be a result of known risks of twin pregnancies and conventional in vitro fertilization treatments. Or they could be the result of unknown risks associated with CRISPR gene editing. Today the children are reportedly healthy, but their future is unknown.
+
+Dr. He argues that CRISPR should be used only for medical reasons, even though it can be argued his own experiment blurred the boundaries between clinical medicine and human enhancement. “No one has a right to determine a child’s genetics except to prevent disease,” according to a paper that Dr. He co-wrote on gene editing ethics (the paper has been retracted). But, the paper continued, “everyone deserves freedom from genetic disease.”
+
+Abstract principles about preventing future disease could also create unintended problems. Many deaf and blind people are concerned that people like them will be edited out of existence, rather than society learning to better accommodate them. At the same time, some patient advocacy groups are rallying behind CRISPR cures.
+
+Future access to this technology is also a concern. Gene editing of embryos would probably be prohibitively expensive for most couples. A single round of I.V.F. ranges from $15,000 to $30,000 in the United States, depending on a patient’s needs, while the costs of approved gene therapies for adults are already exorbitant.
+
+Right now the laws around gene editing in the United States are ambiguous, at least compared with the robust regulations instituted by China. Congress has banned federal funding for any clinical trial of human embryo gene editing, but that ban is subject to periodic reauthorization.
+
+Jeff Fortenberry, who was ranking member of the House Appropriations Committee until he resigned last March, was a supporter of that ban. His daughter was born with multiple heart defects, so he personally understood what could be at stake. But, he argued at a congressional committee meeting, “if we cede that type of framework of science and ethics to maverick bioengineers who are detached from larger societal considerations, the risks of harm are real.”
+
+Figuring out ways to avoid that harm is critical. Regulators and policymakers have an obligation to listen to the desires and concerns of the disability rights community. Research should be driven by community needs and interests, rather than market forces. There are choices here. It’s up to us to decide what we want this future to look like.

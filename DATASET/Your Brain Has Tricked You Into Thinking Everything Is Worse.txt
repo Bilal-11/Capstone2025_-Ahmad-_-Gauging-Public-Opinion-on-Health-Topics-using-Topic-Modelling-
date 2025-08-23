@@ -1,0 +1,27 @@
+Perhaps no political promise is more potent or universal than the vow to restore a golden age. From Caesar Augustus to the Medicis and Adolf Hitler, from President Xi Jinping of China and President “Bongbong” Marcos of the Philippines to Donald Trump’s “Make America Great Again” and Joe Biden’s “America Is Back,” leaders have gained power by vowing a return to the good old days.
+
+What these political myths have in common is an understanding that the golden age is definitely not right now. Maybe we’ve been changing from angels into demons for centuries, and people have only now noticed the horns sprouting on their neighbors’ foreheads.
+
+But I believe there’s a bug — a set of cognitive biases — in people’s brains that causes them to perceive a fall from grace even when it hasn’t happened. I and my colleague Daniel Gilbert at Harvard have found evidence for that bug, which we recently published in the journal Nature. While previous researchers have theorized about why people might believe things have gotten worse, we are the first to investigate this belief all over the world, to test its veracity and to explain where it comes from.
+
+We first collected 235 surveys with over 574,000 responses total and found that, overwhelmingly, people believe that humans are less kind, honest, ethical and moral today than they were in the past. People have believed in this moral decline at least since pollsters started asking about it in 1949, they believe it in every single country that has ever been surveyed (59 and counting), they believe that it’s been happening their whole lives and they believe it’s still happening today. Respondents of all sorts — young and old, liberal and conservative, white and Black — consistently agreed: The golden age of human kindness is long gone.
+
+We also found strong evidence that people are wrong about this decline. We assembled every survey that asked people about the current state of morality: “Were you treated with respect all day yesterday?” “Within the past 12 months, have you volunteered your time to a charitable cause?”,“How often do you encounter incivility at work?” Across 140 surveys and nearly 12 million responses, participants’ answers did not change meaningfully over time. When asked to rate the current state of morality in the United States, for example, people gave almost identical answers between 2002 and 2020, but they also reported a decline in morality every year.
+
+Other researchers’ data have even shown moral improvement. Social scientists have been measuring cooperation rates between strangers in lab-based economic games for decades, and a recent meta-analysis found — contrary to the authors’ expectations — that cooperation has increased 8 percentage points over the last 61 years. When we asked participants to estimate that change, they mistakenly thought cooperation rates had decreased by 9 percentage points. Others have documented the increasing rarity of the most heinous forms of human immorality, like genocide and child abuse.
+
+Two well-established psychological phenomena could combine to produce this illusion of moral decline. First, there’s biased exposure: People predominantly encounter and pay attention to negative information about others — mischief and misdeeds make the news and dominate our conversations.
+
+Second, there’s biased memory: The negativity of negative information fades faster than the positivity of positive information. Getting dumped, for instance, hurts in the moment, but as you rationalize, reframe and distance yourself from the memory, the sting fades. The memory of meeting your current spouse, on the other hand, probably still makes you smile.
+
+When you put these two cognitive mechanisms together, you can create an illusion of decline. Thanks to biased exposure, things look bad every day. But thanks to biased memory, when you think back to yesterday, you don’t remember things being so bad. When you’re standing in a wasteland but remember a wonderland, the only reasonable conclusion is that things have gotten worse.
+
+That explanation fits well with two more of our surprising findings. First, people exempt their own social circles from decline; in fact, they think the people they know are nicer than ever. This might be because people primarily encounter positive information about people they know, which our model predicts can create an illusion of improvement.
+
+Second, people believe that moral decline began only after they arrived on Earth; they see humanity as stably virtuous in the decades before their birth. This especially suggests that biased memory plays a role in producing the illusion.
+
+If these cognitive biases are working in tandem, our susceptibility to golden age myths makes a lot more sense. Our biased attention means we’ll always feel we’re living in dark times, and our biased memory means we’ll always think the past was brighter.
+
+Seventy-six percent of Americans believe, according to a 2015 Pew Research Center poll, that “addressing the moral breakdown of the country” should be one of the government’s priorities. The good news is that the breakdown hasn’t happened. The bad news is that people believe it has.
+
+As long as we believe in this illusion, we are susceptible to the promises of aspiring autocrats who claim they can return us to a golden age that exists in the only place a golden age has ever existed: our imaginations.

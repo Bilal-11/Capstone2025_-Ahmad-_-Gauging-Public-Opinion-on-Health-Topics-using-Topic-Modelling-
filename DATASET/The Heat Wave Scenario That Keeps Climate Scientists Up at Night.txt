@@ -1,0 +1,47 @@
+On a recent Thursday evening, a freakish windstorm called a derecho (Spanish for “straight ahead”) hit Houston, a city of more than two million people that also happens to be the epicenter of the fossil fuel industry in America.
+
+In a matter of minutes, winds of up to 100 miles per hour blew out office building windows, uprooted trees and toppled electric poles and transmission towers. Nearly a million households lost power. Which meant that not only was there no light; there was no air-conditioning. The damage from the storm was so extensive that, five days later, more than 100,000 homes and businesses were still marooned in the heat and darkness.
+
+Luckily, the day the derecho blew in, the temperature in Houston, a city infamous for its swampy summers, was in the low to mid-80s. Hot, to be sure, but for most healthy people, not life-threatening. Of the at least eight deaths reported as a result of the storm, none were from heat exposure.
+
+But if this storm had arrived several days later, perhaps over the Memorial Day weekend, when the temperature in Houston hit 96 degrees, with a heat index as high as 115, it might have been a very different story. “The Hurricane Katrina of extreme heat” is how Mikhail Chester, director of the Metis Center for Infrastructure and Sustainable Engineering at Arizona State University, once put it to me, echoing the memory of the catastrophic 2005 hurricane that struck Louisiana, devastated New Orleans and killed more than 1,300 people.
+
+Most people who died in Louisiana during Katrina died from drownings, injuries or heart conditions. But Dr. Chester was using Katrina as a metaphor for what can happen to a city unprepared for an extreme climate catastrophe. In New Orleans, the levee system was overwhelmed by torrential rains; eventually, 80 percent of the city was underwater.
+
+What if, instead, the electricity goes out for several days during a blistering summer heat wave in a city that depends on air-conditioning?
+
+In Dr. Chester’s scenario, a compounding crisis of extreme heat and a power failure in a major city like Houston could lead to cascading failures, exposing vulnerabilities in the region’s infrastructure that are difficult to foresee and could result in thousands, or even tens of thousands, of deaths from heat exposure in a matter of days. The risk to people in cities would be higher because all the concrete and asphalt amplifies the heat, pushing temperatures in the midafternoon as much as 15 degrees to 20 degrees higher than in surrounding vegetated areas.
+
+The derecho that hit Houston was a warning of just how quickly risks are multiplying in our rapidly warming world. As if to prove this point, some 10 days after the Houston blackout, another windstorm knocked out power to hundreds of thousands of homes and businesses in and around Dallas.
+
+One of the most dangerous illusions of the climate crisis is that the technology of modern life makes us invincible. Humans are smart. We have tools. Yeah, it will cost money. But we can adapt to whatever comes our way. As for the coral reefs that bleach in the hot oceans and the howler monkeys that fell dead out of trees during a recent heat wave in Mexico, well, that’s sad, but life goes on.
+
+This is, of course, an extremely privileged point of view. For one thing, more than 750 million people on the planet don’t have access to electricity, much less air-conditioning. (In India, New Delhi experienced temperatures as high as 120 degrees last week, leading to an increase in heatstroke, fears of blackouts and the possibility of water rationing.) But it is also a naïve point of view, if only because our bubble of invincibility is far more fragile than we know. So what can we expect in a heat Katrina?
+
+Last year, researchers at Georgia Institute of Technology, Arizona State University and the University of Michigan published a study looking at the consequences of a major blackout during an extreme heat wave in three cities: Phoenix, Detroit and Atlanta. In the study, the cause of the blackout was unspecified.
+
+“It doesn’t really matter if the blackout is the result of a cyberattack or a hurricane,” Brian Stone, the director of the Urban Climate Lab at Georgia Tech and the lead author on the study, told me. “For the purposes of our research, the effect is the same.” Whatever the cause, the study noted that the number of major blackouts in the United States more than doubled from 2015-16 to 2020-21.
+
+Dr. Stone and his colleagues focused on those three American cities because they have different demographics, climates and dependence on air-conditioning. In Detroit, 53 percent of buildings have central air-conditioning; in Atlanta, 94 percent; in Phoenix, 99 percent. The researchers modeled the health consequences for residents in a two-day, citywide blackout during a heat wave, with electricity gradually restored over the next three days.
+
+The results were shocking: In Phoenix, about 800,000 people — roughly half the population — would need emergency medical treatment for heatstroke and other illnesses. The flood of people seeking care would overwhelm the city’s hospitals. More than 13,000 people would die.
+
+Under the same scenario in Atlanta, researchers found there would be 12,540 visits to emergency rooms. Six people would die. In Detroit, which has a higher percentage of older residents and a higher poverty rate than those other cities, 221 people would die.
+
+Perhaps we should not be surprised by these numbers. Researchers estimate that in Europe there were 61,672 heat-related deaths in the summer of 2022, the hottest season on record on the continent at the time. In June 2021, a heat wave led to in nearly 900 excess deaths in the Pacific Northwest. And in 2010, an estimated 56,000 Russians died during a record summer heat wave.
+
+The hotter it gets, the more difficult it is for our bodies to cope, raising the risk of heatstroke and other heat illnesses. And it is getting hotter across the planet. Last year was the warmest year on record, and the 10 hottest years have all occurred in the last decade.
+
+In the study simulating a heat wave in those three cities, researchers found that the much larger death toll in Phoenix was explained by two factors. First, the temperatures modeled during a heat wave in Phoenix (90 to 113 degrees) were much higher than the temperatures in Atlanta (77 to 97 degrees) or Detroit (72 to 95 degrees), which have historically had milder heat waves. And second, the greater availability of air-conditioning in Phoenix means the risks from a power failure during a heat wave are much higher.
+
+A lot can be done to reduce these risks. Building cities with less concrete and asphalt and more parks and trees and access to rivers and lakes would help. So would a more sophisticated nationally standardized heat wave warning system. Major cities also need to identify the most vulnerable residents and develop targeted emergency response plans and long-term heat management plans.
+
+Making the grid itself more resilient is equally important. Better digital firewalls at grid operation centers thwart hacker intrusions. Burying transmission lines protects them from storms. Batteries to store electricity for emergencies are increasingly inexpensive.
+
+But the hotter it gets, the more vulnerable the grid becomes, even as demand for electricity spikes because customers are running their air-conditioning full throttle. Transmission lines sag, transformers explode, power plants fail. One 2016 study found the potential for cascading grid failures across Arizona to increase thirtyfold in response to a 1.8 degree rise in summer temperatures.
+
+“Most of the problems with the grid on hot days come from breakdowns at power plants or on the grid caused by the heat itself, or from the difficulty of meeting high demand for cooling,” Doug Lewin, a grid expert and author of the Texas Energy and Power newsletter, told me. The best way to fix that, Mr. Lewin argued, is to encourage people to reduce power demand in their homes with high efficiency heat pumps, better insulation and smart thermostats, and to generate their own power with solar panels and battery storage.
+
+The looming threat of a heat Katrina is a reminder of how technological progress creates new risks even as it solves old ones. On a brutally hot day during a recent trip to Jaipur, India, I visited an 18th-century building that had an indoor fountain, thick walls and a ventilation system to channel the wind through each room. There was no air-conditioning, but the building was as cool and comfortable as a new office tower in Houston.
+
+Air-conditioning may indeed be a modern necessity that many of us who live in hot parts of the world can’t survive without. But it is also a technology of forgetting. Once upon a time, people understood the dangers of extreme heat and designed ways to live with it. And now, as temperatures rise as a result of our hellbent consumption of fossil fuels, tens of thousands of lives may depend on remembering how that was done. Or finding better ways to do it.
